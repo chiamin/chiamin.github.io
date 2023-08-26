@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Home
+title: about
 permalink: /
 subtitle: Affiliations. <a href='https://phys.nsysu.edu.tw/'>Department of Physics, National Sun Yat-sen University</a>
 
