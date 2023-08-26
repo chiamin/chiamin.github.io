@@ -5,7 +5,7 @@ permalink: /
 subtitle: Affiliations. <a href='https://phys.nsysu.edu.tw/'>Department of Physics, National Sun Yat-sen University</a>
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
@@ -20,11 +20,12 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 My research interests lies on using numerical techniques to simualte quantum many-body systems in condensed matter physics.
-At low temperature, collective motion can induce interesting phenomena, for example, high-temperature superconductivity, topological phases, novel non-equalibrium quantum dynamics.
+At low temperature, electrons can have collective motion and induce interesting phenomena due to their strong correlations.
+These phenomena include, for example, high-temperature superconductivity, topological phases, novel non-equalibrium quantum dynamics.
 My research focuses on understanding these phenomena using computational simulations.
 
 In particular, my research interests include the following categories:
-* Developing new numerical techniques based on tensor network states and quantum Monte Carlo
-* Quantum phases related to high-temperature superconductivity
-* Quantum phases in cold atom systems
+* Developing new numerical techniques for quantum many-body systems, mainly based on tensor network states and quantum Monte Carlo
+* Quantum phases in the models related to high-temperature superconductivity
+* Quantum phases in the models related to cold atom systems
 * Non-equalibrium dynamics and quantum transport in low-dimensional systems
