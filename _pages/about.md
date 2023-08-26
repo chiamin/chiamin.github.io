@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle: Affiliations. <a href='https://phys.nsysu.edu.tw/'>Department of Physics, National Sun Yat-sen University</a>
 
@@ -25,4 +25,4 @@ In particular, my research interests include the following categories:
 * Developing new numerical techniques for quantum many-body systems, mainly based on tensor network states and quantum Monte Carlo
 * Quantum phases in the models related to high-temperature superconductor
 * Quantum phases in the models related to cold atom systems
-* Non-equalibrium dynamics and quantum transport in low-dimensional systems
+* Non-equalibrium dynamics and quantum transport in low dimension
