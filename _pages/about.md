@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://phys.nsysu.edu.tw/'>Affiliations</a>: Department of Physics, National Sun Yat-sen University
 
 profile:
   align: right
