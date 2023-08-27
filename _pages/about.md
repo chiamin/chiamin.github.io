@@ -3,13 +3,15 @@ layout: about
 title: Home
 permalink: /
 subtitle: Affiliations. <a href='https://phys.nsysu.edu.tw/'>Department of Physics, National Sun Yat-sen University</a>
+Email: chiaminchung@gmail.com
+---
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Email: chiaminchung@gmail.com</p>
+    <p></p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -31,4 +33,6 @@ In particular, my research interests include the following categories:
 
 #### **Jobs opening**
 
-Postdoc/Ph.D positions are opening. Contact me by email if you are interested.
+Postdoc/Ph.D positions are opening.
+
+Contact me if you are interested.
