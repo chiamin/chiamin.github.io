@@ -21,8 +21,8 @@ My research interests lies on using numerical techniques to simualte quantum man
 
 In particular, my research interests include the following categories:
 * Developing new numerical techniques for quantum many-body systems, mainly based on tensor network states and quantum Monte Carlo
-* Quantum phases in the models related to high-temperature superconductor
-* Quantum phases in the models related to cold atom systems
+* Correlated electrons and high-temperature superconductor
+* Quantum phases in cold-atom systems
 * Non-equalibrium dynamics and quantum transport in low dimension
 
 ---
