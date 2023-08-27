@@ -10,8 +10,10 @@ horizontal: true
 enable_project_categories: true
 ---
 
-My research lies on using computational methods to understand novel behaviors in manoy-body quantum systems.
-
+My research interests lies on using computational methods to understand novel phenomena in quantum manoy-body systems.
+At low temperature, electrons in certain systems become strongly entangled due to the interaction.
+Such systems can not be understood by the behavior of each particle, but instead have collective phenomena, for example, superconductivity or topological order.
+I am interested in understand these phenomena using computational tools, as well as devloping new computational algorithms for such systems.
 
 <!-- pages/projects.md -->
 <div class="projects">
