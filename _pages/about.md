@@ -25,14 +25,14 @@ My research interests lies on 1) using computational methods to simualte quantum
 and 2) developing new algorithms for studying such systems.
 
 In particular, my research interests include the following categories:
-* Developing new numerical techniques for quantum many-body systems, mainly based on tensor network states and quantum Monte Carlo
 * Correlated electrons and high-temperature superconductor
 * Quantum phases in cold-atom systems
 * Non-equalibrium dynamics and quantum transport in low dimension
+* Developing new numerical techniques for quantum many-body systems, mainly based on tensor network states and quantum Monte Carlo
 
 ---
 
-#### **Jobs opening**
+##### **<span style="color:darkorange">Jobs opening</span>**
 
 Postdoc/Ph.D positions are opening.
 
