@@ -2,7 +2,7 @@
 layout: page
 title: High-temperature superconductors and exotic magnetic states
 description: 
-img: assets/img/12.jpg
+img: assets/img/stripes.png
 importance: 1
 category: work
 related_publications: einstein1956investigations, einstein1950meaning
