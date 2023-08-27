@@ -21,7 +21,8 @@ Email: chiaminchung@gmail.com
 
 ---
 
-My research interests lies on using numerical techniques to simualte quantum many-body systems in condensed matter physics.
+My research interests lies on 1) using computational techniques to simualte quantum many-body systems in condensed matter physics,
+and 2) developing new algorithms for such systems.
 
 In particular, my research interests include the following categories:
 * Developing new numerical techniques for quantum many-body systems, mainly based on tensor network states and quantum Monte Carlo

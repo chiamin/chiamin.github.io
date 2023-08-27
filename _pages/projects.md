@@ -10,6 +10,7 @@ horizontal: true
 enable_project_categories: true
 ---
 
+My research lies on using computational methods to understand novel behaviors in manoy-body quantum systems.
 
 
 <!-- pages/projects.md -->
