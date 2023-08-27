@@ -1,7 +1,7 @@
 ---
 layout: page
 title: High-temperature superconductors and exotic magnetic states
-description: a project with a background image
+description: 
 img: assets/img/12.jpg
 importance: 1
 category: work
