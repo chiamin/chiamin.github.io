@@ -27,4 +27,5 @@ In particular, my research interests include the following categories:
 
 ---
 
-Postdoc/Ph.D positions are open. Contact me by email if you are interested.
+[orange]{Jobs opening}
+Postdoc/Ph.D positions are opening. Contact me by email if you are interested.
