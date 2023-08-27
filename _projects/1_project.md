@@ -9,11 +9,11 @@ related_publications: PhysRevX.5.041041, doi:10.1126/science.aam7127, PhysRevB.1
 ---
 
 Superconductivity is a phenomeno that electrons propergate without dissipation and therefore feel no resistance. 
-High-temperature superconductors have been discovered over 50 years, while its machenism remains one of the biggest mistary in condensed matter physics.
-The main challenging is that there exists a number of competing states with extremely close energies.
-Therefore the theoritical 
+High-temperature superconductors have been discovered since 1970, while its machenism remains one of the biggest mistary in condensed matter physics.
+The main challenging is the existance of a number of competing states with extremely close energies, which requires high accuracy in the theoritical calculations.
 
-We have published a series of works on this topic.
+We have a series of works on this topic. By utilizing advance computational techniques, in particular tensor network and quantum Monte Carlo, we are able to obtain the ground state as well as other low-energy states in high accuracy.
+T
 
 
 
@@ -32,21 +32,7 @@ To give your project a background in the portfolio page, just add the img tag to
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/stripes2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
