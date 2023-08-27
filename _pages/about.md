@@ -17,6 +17,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
+
+
 My research interests lies on using numerical techniques to simualte quantum many-body systems in condensed matter physics.
 
 In particular, my research interests include the following categories:
@@ -27,5 +29,6 @@ In particular, my research interests include the following categories:
 
 ---
 
-[orange]{Jobs opening}
+<span style="color:Darkorange">Jobs opening</span>
+
 Postdoc/Ph.D positions are opening. Contact me by email if you are interested.
