@@ -1,6 +1,6 @@
 ---
 layout: page
-title: High-temperature superconductors and exotic magnetic states
+title: High-temperature superconductors
 description: 
 img: assets/img/stripes.png
 importance: 1
