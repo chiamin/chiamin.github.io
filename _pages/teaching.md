@@ -2,13 +2,13 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
+description:
 nav: true
 nav_order: 5
 ---
 
-Undergraduate courses:
+### Undergraduate courses:
 * Essential coding and data analysis on physics
 
-Graduate Courses:
+### Graduate Courses:
 * Quantum mechanics
