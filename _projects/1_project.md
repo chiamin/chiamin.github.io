@@ -5,7 +5,7 @@ description:
 img: assets/img/stripes.png
 importance: 1
 category: Physical Systems
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: PhysRevX.5.041041, doi:10.1126/science.aam7127, PhysRevB.102.041106, PhysRevX.10.031016
 ---
 
 Every project has a beautiful feature showcase page.
