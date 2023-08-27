@@ -4,7 +4,7 @@ title: High-temperature superconductors
 description: 
 img: assets/img/stripes.png
 importance: 1
-category: work
+category: Physical Systems
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
