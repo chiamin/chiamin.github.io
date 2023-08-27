@@ -3,8 +3,6 @@ layout: about
 title: Home
 permalink: /
 subtitle: Affiliations. <a href='https://phys.nsysu.edu.tw/'>Department of Physics, National Sun Yat-sen University</a>
-Email: chiaminchung@gmail.com
----
 
 profile:
   align: right
@@ -19,7 +17,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
+Email: chiaminchung@gmail.com
 
+---
 
 My research interests lies on using numerical techniques to simualte quantum many-body systems in condensed matter physics.
 
