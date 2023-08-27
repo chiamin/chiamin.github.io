@@ -8,53 +8,41 @@
     }
     {
       "name": "University of Copenhagen, Denmark",
-      "position": "Postdoc researcher",
+      "position": "Postdoctoral Researcher",
       "startDate": "2020",
       "endDate": "2021",
     }
     {
-      "name": "University of Copenhagen, Denmark",
-      "position": "Postdoc researcher",
-      "startDate": "2020",
-      "endDate": "2021",
+      "name": "Ludwig Maximilian University, Munich",
+      "position": "Postdoctoral Researcher",
+      "startDate": "2017",
+      "endDate": "2019",
+    }
+    {
+      "name": "University of California, Irvine, US",
+      "position": "Postdoctoral Researcher",
+      "startDate": "2014",
+      "endDate": "2017",
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
+      "institution": "National Tsing Hua University, Taiwan",
+      "position": "PhD",
+      "startDate": "2008",
+      "endDate": "2014",
     }
-  ],
-  "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "institution": "National Cheng Kung University, Taiwan",
+      "position": "Master of Science",
+      "startDate": "2005",
+      "endDate": "2007",
     }
-  ],
-  "certificates": [],
-  "publications": [],
-  "skills": [],
-  "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent"
+      "institution": "Chung Yuan Christian University, Taiwan",
+      "position": "Bachelor of Science",
+      "startDate": "2001",
+      "endDate": "2005",
     }
-  ],
-  "interests": [],
-  "references": [],
-  "projects": []
+  ]
 }
