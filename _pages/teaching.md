@@ -7,8 +7,8 @@ nav: true
 nav_order: 5
 ---
 
-Undergraduate courses:
+##### Undergraduate courses:
 * Essential coding and data analysis on physics
 
-Graduate Courses:
+##### Graduate Courses:
 * Quantum mechanics
