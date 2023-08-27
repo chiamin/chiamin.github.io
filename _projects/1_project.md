@@ -9,11 +9,11 @@ related_publications: PhysRevX.5.041041, doi:10.1126/science.aam7127, PhysRevB.1
 ---
 
 Superconductivity is a phenomeno that electrons propergate without dissipation and therefore feel no resistance. 
-High-temperature superconductors have been discovered over 50 years, while its machenism remains one of the biggest mistary in condensed matters.
-The main challenging to understand these systems is from the existance of competing low-energy states with extremely close energies.
+High-temperature superconductors have been discovered over 50 years, while its machenism remains one of the biggest mistary in condensed matter physics.
+The main challenging is that there exists a number of competing states with extremely close energies.
 Therefore the theoritical 
 
-We have a series of works on this topic.
+We have published a series of works on this topic.
 
 
 
