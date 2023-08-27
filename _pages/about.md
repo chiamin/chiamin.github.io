@@ -24,7 +24,3 @@ In particular, my research interests include the following categories:
 * Quantum phases in the models related to high-temperature superconductor
 * Quantum phases in the models related to cold atom systems
 * Non-equalibrium dynamics and quantum transport in low dimension
-
----
-
-Postdoc and Ph.D positions are open. Please send an email to me if you are interested in the position.
