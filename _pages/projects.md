@@ -13,7 +13,8 @@ enable_project_categories: true
 My research interests lies on using computational methods to understand interesting physics in quantum many-body systems.
 At low temperature, electrons in certain systems become strongly entangled due to the interaction.
 Such systems can no longer be understood by the behavior of each particle, but instead emerge collective phenomena, for example, superconductivity or topological order.
-My interests is to understand these phenomena using computational tools, as well as devloping new computational algorithms for simulating these systems.
+My interests is to understand these phenomena using computational tools.
+I am also interested in devloping new computational algorithms for simulating these systems.
 
 <!-- pages/projects.md -->
 <div class="projects">
