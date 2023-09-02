@@ -10,11 +10,8 @@ related_publications: PhysRevA.83.031605, PhysRevB.85.214513
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/boson.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/boson.png" title="example image" class="img-fluid rounded z-depth-1" style="width:200px" %}
     </div>
-</div>
-<div class="caption">
-    Spin and charge distribution.
 </div>
 
 Ultracold atoms is a system that fermions or bosons are trapped by laser light and cooled down to a low enough temperature to see the quantum phenomina.
