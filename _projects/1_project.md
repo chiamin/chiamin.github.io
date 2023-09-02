@@ -17,13 +17,12 @@ related_publications: PhysRevX.5.041041, doi:10.1126/science.aam7127, PhysRevB.1
     Spin and charge distribution.
 </div>
 
-Superconductivity is a phenomeno that electrons propergate without dissipation and therefore feel no resistance. 
-High-temperature superconductors have been discovered since 1986, while its machenism remains one of the biggest mistary in condensed matter physics.
+<div style="text-align: justify">
+Superconductivity is a phenomeno that electrons transport without dissipation and therefore exhibit no resistance. 
+High-temperature superconductors have been discovered since 1986, while its machenism remains one of the biggest mistary in the condensed matter physics.
 The main challenging is the existance of a number of competing states with extremely close energies, which requires high accuracy in the theoritical calculations.
 
-We have a series of works on this topic. By utilizing advance computational techniques, in particular tensor network and quantum Monte Carlo, we are able to distinguish the ground state and the other low-energy states with high accuracy.
+We have a series of important works on this topic. By utilizing the advance computational techniques, in particular tensor network and quantum Monte Carlo, we are able to obtain the ground state and the low-energy excited states in the theoritical models with high accuracy. Therefore we have a reliable understanding of the properties of the systems. For example, the spin and charge densities show a special pattern which is the so-called stripe state, which may consist or compete with superconductivity.
 
-In our works, we study the ground states of the related models including the Hubbard model and its variances,
-The ground state has a special spin and/or charge orderings (which is called stripes).
-Superconductivity can coexist or not with the stripe order.
-The goal is to understand the machenism of superconductivity throw studying these models.
+The ultimate goal is to understand the foundenmantal physics in cuprate superconductors. We try to acheive this goal by small steps. First we identify theoritical models that captures all the right physics in superconductor experiments, and then by studying these models we may learn the machenism of pairing.
+</div>
