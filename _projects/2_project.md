@@ -21,3 +21,5 @@ When the temperature is low enough, the system can enter a phase called Bose-Ein
 In our works, we determine the quantum critical region close to the phase transitions.
 In another work, we study the two-component bosons in optical lattice where a pair-supersolid state can be stabilized.
 We explore the phase diagram including Mott insulator, pair-superfluid and pair-supersolid.
+
+The simulations are performed using quantum Monte Carlo.
