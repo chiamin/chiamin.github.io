@@ -14,9 +14,9 @@ related_publications: PhysRevA.83.031605, PhysRevB.85.214513
     </div>
 </div>
 
-Ultracold atoms is a system that fermions or bosons are trapped by laser light and cooled down to a low enough temperature to see the quantum phenomina.
-In these systems, the physical properties, for example the interaction and the lattice geometry, can be greatly controlled in the experiments.
-When the temperature is low enough, the system can enter a phase called Bose-Einsten condensate which shows superfluidity (zero viscosity).
+Ultracold atoms is a system that particles (fermions or/and bosons) are cooled down to a very low temperature using lasers and magnetic fields.
+The temperature is low enough that the particles exhibit quantum phenomina, for example Bose-Einsten condensation.
+The essential parameters of the system, including the interaction, the shape, and the lattice geometry, can be greatly controlled in the experiments.
 
 In our works, we determine the quantum critical region close to the phase transitions.
 In another work, we study the two-component bosons in optical lattice where a pair-supersolid state can be stabilized.
