@@ -15,7 +15,7 @@ related_publications: PhysRevA.83.031605, PhysRevB.85.214513
 </div>
 
 Ultracold atoms is a system that particles (fermions or/and bosons) are cooled down to a very low temperature using lasers and magnetic fields.
-The temperature is low enough that the particles exhibit quantum phenomina, for example Bose-Einsten condensation.
+The temperature is low enough that the particles exhibit quantum phenomena, for example, Bose-Einsten condensation.
 The essential parameters of the system, including the interaction, the shape, and the lattice geometry, can be greatly controlled in the experiments.
 
 In our works, we determine the quantum critical region close to the phase transitions.
