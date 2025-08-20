@@ -2,14 +2,13 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Affiliations. <a href='https://phys.nsysu.edu.tw/'>Department of Physics, National Sun Yat-sen University</a>
+subtitle: Affiliations. <a href='https://phys.nsysu.edu.tw/'>Department of Electrophysics, National Yang Ming Chiao Tung University</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p><center>I am a good man</center></p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -21,19 +20,15 @@ Email: chiaminchung@gmail.com
 
 ---
 
-My research interests lies on 1) using computational methods to simualte quantum many-body systems in condensed matters,
-and 2) developing new algorithms for studying such systems.
-
-In particular, my research interests include the following categories:
-* Correlated electrons and high-temperature superconductor
-* Quantum phases in cold-atom systems
-* Non-equalibrium dynamics and quantum transport in low dimension
-* Developing new numerical techniques for quantum many-body systems, mainly based on tensor network states and quantum Monte Carlo
+My research interests lies on 
+* Numerical techniques for quantum many-body systems, such as tensor network and quantum Monte Carlo
+* Correlated electrons and high-temperature superconductors
+* Quantum phases and phase transitions
 
 ---
 
 ##### **<span style="color:darkorange">Jobs opening</span>**
 
-Postdoc/Ph.D positions are opening.
+Ph.D positions are opening.
 
 Contact me if you are interested.
