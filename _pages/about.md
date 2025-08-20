@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Affiliations. <a href='https://phys.nsysu.edu.tw/'>Department of Electrophysics, National Yang Ming Chiao Tung University</a>
+subtitle: Affiliations. <a href='https://ep.nycu.edu.tw/'>Department of Electrophysics, National Yang Ming Chiao Tung University</a>
 
 profile:
   align: right
