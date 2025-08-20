@@ -11,7 +11,7 @@ nav_order: 1
 <p style="font-size:12pt"> A list of preprints can be found on <a href='https://arxiv.org/search/?query=chia-min+chung&searchtype=author&source=header'><u>arXiv</u></a> or <a href='https://scholar.google.com/citations?user=Zbi8pPcAAAAJ&hl=En'><u>Google Scholar</u></a></p>
 
 <!-- _pages/publications.md -->
-<div class="publications">
+<!-- <div class="publications"> -->
 
 <!-- {% bibliography -f {{ site.scholar.bibliography }} %} -->
 
